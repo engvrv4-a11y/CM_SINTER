@@ -1,0 +1,14 @@
+Flask
+PyJWT
+pandas
+flask-cors
+Flask-Migrate
+Flask-SQLAlchemy
+Werkzeug
+psycopg[binary]
+gunicorn
+SQLAlchemy
+openpyxl
+xlsxwriter
+cloudinary
+python-dotenv
